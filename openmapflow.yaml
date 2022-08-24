@@ -1,10 +1,10 @@
-version: 0.1.4
+version: 0.1.5
 project: Gamoyo-CropMask
 description: OpenMapFlow Gamoyo CropMask
 gcloud:
     project_id: rcmrd-workshop-test
     location: us-central1
-    bucket_labeled_eo: Gamoyo-CropMask-labeled-eo
-    bucket_inference_eo: Gamoyo-CropMask-inference-eo
-    bucket_preds: Gamoyo-CropMask-preds
-    bucket_preds_merged: Gamoyo-CropMask-preds-merged
+    bucket_labeled_eo: gamoyo-cropmask-labeled-eo
+    bucket_inference_eo: gamoyo-cropmask-inference-eo
+    bucket_preds: gamoyo-cropmask-preds
+    bucket_preds_merged: gamoyo-cropmask-preds-merged
