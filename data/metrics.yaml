@@ -1,0 +1,9 @@
+Gamoyo-model:
+  local_testing_original_size: 83
+  local_testing_positive_class_percentage: 0.4337
+  test_metrics:
+    accuracy: 0.7711
+    f1: 0.7595
+    precision: 0.6977
+    recall: 0.8333
+    roc_auc: 0.8617
