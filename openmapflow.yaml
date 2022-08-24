@@ -1,5 +1,5 @@
 version: 0.1.5
-project: Gamoyo-CropMask
+project: gamoyo-cropmask
 description: OpenMapFlow Gamoyo CropMask
 gcloud:
     project_id: rcmrd-workshop-test
