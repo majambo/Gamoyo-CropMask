@@ -6,7 +6,7 @@ name: Gamoyo-deploy
 on:
   push:
     branches: [ main ]
-    paths: 'data/models.dvc'
+    # paths: 'data/models.dvc'
 
 jobs:
   deploy: 
